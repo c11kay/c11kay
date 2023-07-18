@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @c11kay
-- 👀 I’m interested in... Rocket Science, Web-/Mobile Dev, road cycling.
+- 👀 I’m interested in... Rocket Science, Web-/Mobile Dev, Hamradio, running & road cycling
 - 🌱 I’m currently learning... PHP, HTML, Database... all the basic stuff!
 - 💞️ I’m looking to collaborate on - ?! NOT YET
 - 📫 How to reach me...? Check http://krab.es =)
